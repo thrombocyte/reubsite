@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/thrombocyte.github.io/reubsite/static/css/main.073c9b0a.css",
-    "main.js": "/thrombocyte.github.io/reubsite/static/js/main.b040089a.js",
+    "main.js": "/thrombocyte.github.io/reubsite/static/js/main.96c3637b.js",
     "static/js/787.26069e25.chunk.js": "/thrombocyte.github.io/reubsite/static/js/787.26069e25.chunk.js",
-    "static/media/logo.svg": "/thrombocyte.github.io/reubsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/thrombocyte.github.io/reubsite/index.html",
     "main.073c9b0a.css.map": "/thrombocyte.github.io/reubsite/static/css/main.073c9b0a.css.map",
-    "main.b040089a.js.map": "/thrombocyte.github.io/reubsite/static/js/main.b040089a.js.map",
+    "main.96c3637b.js.map": "/thrombocyte.github.io/reubsite/static/js/main.96c3637b.js.map",
     "787.26069e25.chunk.js.map": "/thrombocyte.github.io/reubsite/static/js/787.26069e25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b040089a.js"
+    "static/js/main.96c3637b.js"
   ]
 }
